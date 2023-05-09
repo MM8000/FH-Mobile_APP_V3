@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #202430;
+  color: #ffffff;
+  box-sizing: border-box;
+  
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+}

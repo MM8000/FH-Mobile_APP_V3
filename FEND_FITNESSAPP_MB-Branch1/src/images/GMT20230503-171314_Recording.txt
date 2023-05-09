@@ -1,0 +1,11 @@
+00:32:49	Verena Fiori-Jambor:	Mein Mikro zickt gerade, wo ist denn dann die html deren Body über root angesprochen wird?
+00:33:48	Verena Fiori-Jambor:	AAAAh, danke, Joscha
+00:36:26	Elaha Ilay Mahbub:	Aber die Endung der Datei endet ja in App,js und nicht App.jsx
+00:41:15	Elaha Ilay Mahbub:	thx!
+01:11:44	Wagner Laranjeiras dos Santos Cordoville:	When we have this "handler" functions in our components, is their scope global? Like, if we would had another "handleClick()" in another file, would the last one override it?
+01:12:06	Wagner Laranjeiras dos Santos Cordoville:	Nice, thx man
+01:40:36	Nike:	untenist ein Tippfehler im return (mikro mag nicht)
+01:40:54	Nike:	im Return der App
+01:52:40	Wagner Laranjeiras dos Santos Cordoville:	Sorry people, I have to go now. Bye everyone, have you all a nice evening. 🥰 Nice class by the way
+01:52:50	Mirko Majchrzak:	Reacted to "Sorry people, I have..." with 🙌
+01:57:08	Verena Fiori-Jambor:	👏🏻
